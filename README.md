@@ -1,6 +1,6 @@
-# receipt_radar_1
+# Receipt Radar
 
-A new Flutter project.
+Final Year Project created with the flutter framework
 
 ## Getting Started
 
