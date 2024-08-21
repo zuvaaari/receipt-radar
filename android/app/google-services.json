@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988138138232",
+    "project_id": "receipt-radar-ee33f",
+    "storage_bucket": "receipt-radar-ee33f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988138138232:android:2eae6f6f9cca375187db8d",
+        "android_client_info": {
+          "package_name": "com.example.receipt_radar_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4FumYwMQ5okjCkqvdBtpISBtZ1veqoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
